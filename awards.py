@@ -12,12 +12,10 @@ print("running = 42")
 print("")
 
 print("Time taken for Swimming task:",swimming)
-
 print("Time taken for Cycling task:",cycling)
-
 print("Time taken for Running task:",running)
 
-# Using the next func() string = data1 + data2 + data3 
+# Using the func() string = data1 + data2 + data3 
 # We have the total and now we can use if, elif and else forms. 
 # make sure you position correctly the "> "=" <" to display the correct target desired. 
 
@@ -47,10 +45,9 @@ else:
 #Time taken for Running task: 42
 
 #Total time taken for triathlon: 102
-#Award: Provincial Half Colors
-    
+#Award: Provincial Half Colors    
 
-#----------------------END---------------------#
+#----------------------------END---------------------------#
 
 
 
