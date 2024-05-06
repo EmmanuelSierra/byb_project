@@ -18,8 +18,8 @@ x = 0
 # and for each item, multiply its stock value by its price, like in the following:
 
 for item in Menu:
- item_value =  (Stock[item] * Prices[item])
- x += item_value
+    item_value =  (Stock[item] * Prices[item])
+    x += item_value
  
 print("Stock value:\n", Stock, "\n")
 print("Product prices:\n", Prices, "\n") 
