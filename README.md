@@ -17,3 +17,6 @@ still we will use the same for loop.
 - I expect this program to improve in a near future to calculate more than just dictionaries,
 nevertheless this is the crucial logic base for itself.
 
+
+# Requierements:
+- Python.
