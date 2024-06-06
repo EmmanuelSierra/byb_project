@@ -1,7 +1,7 @@
-Project's Title:
+# Project's Title:
 Cafe_total_stock_value
 
-Project Description:
+# Project Description:
 We can calculate the total stock worth by looping through the menu list, 
 and for each item, multiply its stock value by its price.
 
